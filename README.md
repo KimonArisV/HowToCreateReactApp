@@ -5,7 +5,7 @@ A guide on how to use a create react app.
 
 
 <h3> Step 1: Run the following and go grab a coffee because it will take a few minutes. </h3> <br> 
-<h4><code> npx create-react-app <\ my-app-name> </code> </h4>
+<h4><code> npx create-react-app &lt; my-app-name &gt; </code> </h4>
 
 <br>
 
